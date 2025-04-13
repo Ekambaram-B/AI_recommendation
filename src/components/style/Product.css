@@ -1,0 +1,15 @@
+.product-container {
+    padding: 100px 20px;
+    text-align: center;
+  }
+  
+  .product-container img {
+    width: 300px;
+    border-radius: 10px;
+  }
+  
+  .product-details {
+    margin-top: 20px;
+    font-size: 18px;
+  }
+  
